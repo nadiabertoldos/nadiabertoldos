@@ -1,12 +1,12 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey! I'm Nadia 👋</h1>
 
 ###
-<img align="right" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXViazRoeTR5eWxhaGI3OGJhM2YyM29pYWJybGE0cmE5a29yY2E4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.webp"  />
-<p align="left">My name is Nadia and I'm from Brazil. :)</p>
-<p align="left">✨ I’m an IT graduate with a focus on data analysis and marketing automation. <br>📚 Currently, I’m building skills in Python for Data Analysis.<br>🚀 I also have experience with marketing automation on platforms such as Salesforce Marketing Cloud (certified) and Adobe Campaign. <br>🎲 Fun fact: I don’t like coffee (sorry, tech community)</p>
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXViazRoeTR5eWxhaGI3OGJhM2YyM29pYWJybGE0cmE5a29yY2E4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.webp"  />
+
+<p align="left">✨ I’m an IT graduate with a focus on data analysis and marketing automation. <br><br>📚 Currently, I’m building skills in Python for Data Analysis.<br><br>🚀 I also have experience with marketing automation on platforms such as Salesforce Marketing Cloud (certified) and Adobe Campaign. <br><br>🎲 Fun fact: I don’t like coffee (sorry, tech community)</p>
 
 ###
 
