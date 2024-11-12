@@ -4,11 +4,8 @@
 <h1 align="left">Hey 👋</h1>
 
 ###
-
-<p align="left">My name is Nadia and I'm from Brazil. :)</p>
-
 <img align="right" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXViazRoeTR5eWxhaGI3OGJhM2YyM29pYWJybGE0cmE5a29yY2E4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.webp"  />
-
+<p align="left">My name is Nadia and I'm from Brazil. :)</p>
 <p align="left">✨ I’m an IT graduate with a focus on data analysis and marketing automation. <br>📚 Currently, I’m building skills in Python for Data Analysis.<br>🚀 I have experience in marketing automation on platforms like Salesforce Marketing Cloud and Adobe Campaign, with a certification in Salesforce Marketing Cloud. <br>🎲 Fun fact: I don’t like coffee (sorry, tech community)</p>
 
 ###
