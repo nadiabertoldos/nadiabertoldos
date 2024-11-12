@@ -7,15 +7,9 @@
 
 <p align="left">My name is Nadia and I'm from Brazil. :)</p>
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXViazRoeTR5eWxhaGI3OGJhM2YyM29pYWJybGE0cmE5a29yY2E4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.webp"  />
+<img align="right" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXViazRoeTR5eWxhaGI3OGJhM2YyM29pYWJybGE0cmE5a29yY2E4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.webp"  />
 
 <p align="left">✨ I’m an IT graduate with a focus on data analysis and marketing automation. <br>📚 Currently, I’m building skills in Python for Data Analysis.<br>🚀 I have experience in marketing automation on platforms like Salesforce Marketing Cloud and Adobe Campaign, with a certification in Salesforce Marketing Cloud. <br>🎲 Fun fact: I don’t like coffee (sorry, tech community)</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiabertoldos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -35,6 +29,12 @@
 <div align="left">
   <a href = "mailto:nadiabertoldoz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nadia-bertoldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiabertoldos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
